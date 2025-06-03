@@ -1,1 +1,1 @@
-# parallix-net
+# parallix.co.za
